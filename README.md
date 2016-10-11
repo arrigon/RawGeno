@@ -1,5 +1,13 @@
 # RawGeno V.2.0-1 Quick Readme
 
+Welcome to RawGeno! This is an R CRAN package dedicated to the automated scoring of AFLPs. The package is distributed on sourceforge, and the sources can be found here.
+
+Rawgeno was published in:
+https://www.google.ch/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjstPSq-NLPAhUH8RQKHdcjAREQFggeMAA&url=http%3A%2F%2Fbmcbioinformatics.biomedcentral.com%2Farticles%2F10.1186%2F1471-2105-10-33&usg=AFQjCNEU8p2MaZ2TfXGhw3qXWKnzokzl9w&sig2=yhwSnMxb21xKsqjqek5WPw
+
+and has been cited in > 100 papers. 
+
+
 
 Installing RawGeno:
 

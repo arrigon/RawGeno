@@ -1,0 +1,5 @@
+OPENAFLP.PROCESS <-
+function(...){
+  SELECTFILES()
+  SEVERALFILES()
+}
